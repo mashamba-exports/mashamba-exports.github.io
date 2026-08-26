@@ -2,7 +2,7 @@
 
 > Mashamba FFP (U) Ltd is a Ugandan fresh produce airfreight exporter, supplying 9+ export-grade horticultural crops to international buyers with reliable cold-chain handling and full export documentation. Focus: operational precision, logistics credibility, and modern Ugandan export excellence.
 
-Mashamba is the trading name of FFP (U) Ltd, a registered exporter of horticultural products based in Uganda, exporting since 2001. The company sources, packs, and airfreights fresh produce (hot peppers, ginger, matoke, avocados, sweet potatoes, white African eggplant, cocoyam, sugar cane, and apple bananas) from Entebbe to international markets including the United Kingdom, the Gulf, and the EU. Buyers can review the product range, request a per-product export quote, and read free export guides.
+Mashamba is the trading name of FFP (U) Ltd, a registered exporter of horticultural products based in Uganda, exporting since 2001. The company sources, packs, and airfreights fresh produce (hot peppers, ginger, matoke, avocados, sweet potatoes, white African eggplant, cocoyam, sugar cane, apple bananas, pineapples, and seasonal Hass avocados) from Entebbe to international markets including the United Kingdom, the Gulf, and the EU. Buyers can review the product range, request a per-product export quote, and read free export guides.
 
 ## Main pages
 
@@ -14,7 +14,7 @@ Mashamba is the trading name of FFP (U) Ltd, a registered exporter of horticultu
 
 ## Products (crops)
 
-- [Ugandan Hot Peppers](https://ffpmashamba.com/products/ugandan-hot-peppers): Fresh scotch bonnet and habanero, 100,000 to 350,000 SHU, airfreighted by air.
+- [Ugandan Hot Peppers](https://ffpmashamba.com/products/ugandan-hot-peppers): Fresh scotch bonnet and habanero, 100,000 to 350,000 SHU, airfreighted fresh from Entebbe.
 - [Ugandan Ginger](https://ffpmashamba.com/products/ugandan-ginger): Fresh high-gingerol mature ginger root, available near year-round.
 - [Ugandan Matoke](https://ffpmashamba.com/products/ugandan-matoke): Fresh green East African Highland cooking banana, shipped green and cold-chain held.
 - [Ugandan Avocados](https://ffpmashamba.com/products/ugandan-avocados): West Indian jumbo avocados, smooth green skin, 250 to 700g.
@@ -23,6 +23,8 @@ Mashamba is the trading name of FFP (U) Ltd, a registered exporter of horticultu
 - [Ugandan Cocoyam](https://ffpmashamba.com/products/ugandan-cocoyam): Fresh cocoyam corms, malanga and eddoe, cured and soil-free for the diaspora kitchen.
 - [Ugandan Sugar Cane](https://ffpmashamba.com/products/ugandan-sugar-cane): Fresh-cut Ugandan sugar cane for chewing and juice.
 - [Ugandan Apple Bananas](https://ffpmashamba.com/products/ugandan-apple-bananas): Sweet Sukali Ndizi apple bananas, airfreighted fresh.
+- [Ugandan Hass Avocados](https://ffpmashamba.com/products/ugandan-hass-avocados): Hass avocados in season January to September, dry-matter tested at pick.
+- [Ugandan Pineapples](https://ffpmashamba.com/products/ugandan-pineapples): Smooth Cayenne pineapples cut at eating ripeness, available all year round and flown crown-on; no phytosanitary certificate needed for UK or EU entry.
 
 ## Markets
 
@@ -41,6 +43,8 @@ Mashamba is the trading name of FFP (U) Ltd, a registered exporter of horticultu
 - [Export Documentation Guide](https://ffpmashamba.com/resources/uganda-export-documentation-guide): The five-document pack that clears Ugandan produce into the UK and EU, including phytosanitary, IPAFFS, and TRACES.
 - [Entebbe-London Air Route](https://ffpmashamba.com/resources/uganda-airlines-gatwick-route): The direct Entebbe to London Gatwick cargo route explained for produce buyers.
 - [Seasonal Availability Calendar](https://ffpmashamba.com/resources/uganda-fresh-produce-seasonal-availability): When Ugandan produce is in season, a month-by-month availability guide and why Uganda supplies year-round.
+- [Who Buys Ugandan Produce in the UK & Europe](https://ffpmashamba.com/resources/who-buys-ugandan-produce-uk-eu): The buyer groups behind UK and EU demand for Ugandan produce, from diaspora retail to wholesale markets.
+- [Uganda vs Kenya: Sourcing Compared](https://ffpmashamba.com/resources/uganda-vs-kenya-fresh-produce-sourcing): Choosing your East African produce origin, how Uganda and Kenya compare for fresh produce buyers.
 
 ## Policies and site directory
 
